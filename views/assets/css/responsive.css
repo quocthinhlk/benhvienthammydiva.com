@@ -1,0 +1,30 @@
+@media screen and (max-width:1679px){
+}
+@media screen and (max-width:1199px){
+
+}
+@media screen and (max-width:991px){
+	.wapper_menu{
+		display: none;
+	}
+	.mobile_menu{
+		display: block;
+		position: relative;
+		z-index: 999;
+	}
+}
+@media screen and (max-width:767px){
+
+}
+@media screen and (max-width:639px){
+
+}
+@media screen and (max-width:539px){
+
+}
+@media screen and (max-width:439px){
+
+}
+@media screen and (max-width:374px){
+
+/* iphone X */}
